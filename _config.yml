@@ -1,0 +1,28 @@
+name: JamNetwork
+favicon: null
+layout_spectrum: 0.9525129271205515
+typography_spectrum: 0.8334313503000885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8210303520318121
+  lightness: 0.39411324076354504
+  saturation: 0.9210676096845418
+  rhythmicContrast: 0.9335292838513851
+purpose: []

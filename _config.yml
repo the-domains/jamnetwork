@@ -1,28 +1,40 @@
-name: JamNetwork
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.8334313503000885
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: JamNetwork
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.9210676096845418
+  brandStrength: 0.8210303520318121
+  rhythmicContrast: 0.9335292838513851
   brandColors:
     - '#060404'
     - '#ffffff'
     - '#2d2d2d'
     - '#c0c0c0'
     - '#7a7979'
-  brandStrength: 0.8210303520318121
-  lightness: 0.39411324076354504
-  saturation: 0.9210676096845418
-  rhythmicContrast: 0.9335292838513851
-purpose: []
+  lightness: 0.394113240763545
+typography_spectrum: 0.8334313503000885
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5250896
+analytics:
+  twitter: null
+  google: null
+  facebook: null
